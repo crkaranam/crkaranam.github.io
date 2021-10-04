@@ -1,0 +1,40 @@
+body
+{
+
+	background-color: #ffffff;
+	line-height: 25px;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+.right{
+    float:right;
+}
+
+.left{
+    float:left;
+}
+
+.content {
+    max-width: 1050px;
+    margin: auto;
+}
+
+IMG
+{
+    max-width: 240px;
+
+}
+
+hr
+{
+    color: #9AC6E2;
+    height: 2px;
+    border: 0px solid #9AC6E2;
+    background: #9AC6E2;
+}
+
+a:link {  color: #0000ff; text-decoration: none}
+a:visited {  color: #0000ff; text-decoration: none}
+a:hover {  color: #FF0000; text-decoration: none}
+a:active { color: #FF0000 }
